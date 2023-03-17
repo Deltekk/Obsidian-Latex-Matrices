@@ -1,6 +1,6 @@
 {
-	"id": "obsidian-latex-matrices",
-	"name": "Obsidian Latex Matrices",
+	"id": "latex-matrices",
+	"name": "Latex Matrices",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Speedup latex matrices writing.",

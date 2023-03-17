@@ -1,0 +1,53 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.matrixHeader {
+	border-radius: 5px;
+	margin: 10px;
+}
+
+.matrixInput {
+	border-radius: 5px;
+	margin: 10px;
+}
+
+.genBtn {
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+
+.matrixDiv {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.innerMatrixDiv {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.matrixElement {
+	margin: 10px;
+	width: 50px !important;
+	height: 50px !important;
+}
+
+.errorPar {
+	margin: 10px;
+	color: red;
+	text-align: center;
+}
+
+.disabled {
+	display: none;
+}

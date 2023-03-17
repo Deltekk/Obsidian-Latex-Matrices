@@ -19,4 +19,4 @@ For a manual installation, you can download the necessary files and place them w
 
 If you liked this plugin, please consider donating to support me and my work!
 
-[![PayPal icon](https://raw.githubusercontent.com/chetachiezikeuzor/Highlightr-Plugin/master/assets/paypal.svg)(https://www.paypal.com/paypalme/DanieleSus)]
+[![PayPal icon](https://raw.githubusercontent.com/chetachiezikeuzor/Highlightr-Plugin/master/assets/paypal.svg)](https://www.paypal.com/paypalme/DanieleSus)

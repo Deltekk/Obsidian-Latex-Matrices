@@ -15,6 +15,7 @@ You can insert in the cells:
 ## Example
 
 This is an example note. It demonstrate that this plugin can output all types of matrices.
+
 ![Screenshot of the note in rendering mode with all types of matrices.](./Images/MatricesExample.png)
 
 ---

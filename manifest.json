@@ -1,11 +1,11 @@
 {
 	"id": "latex-matrices",
 	"name": "Latex Matrices",
+	"author": "Daniele Susino",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Speedup latex matrices writing.",
-	"author": "Daniele Susino",
+	"isDesktopOnly": false,
 	"authorUrl": "https://github.com/Deltekk",
-	"fundingUrl": "https://www.paypal.com/paypalme/DanieleSus",
-	"isDesktopOnly": false
+	"fundingUrl": "https://www.paypal.com/paypalme/DanieleSus"
 }

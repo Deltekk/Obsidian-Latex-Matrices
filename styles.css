@@ -42,7 +42,7 @@ If your plugin does not need CSS, delete this file.
 	height: 50px !important;
 }
 
-.errorPar {
+.error {
 	margin: 10px;
 	color: red;
 	text-align: center;
